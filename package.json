@@ -1,0 +1,24 @@
+{
+  "name": "print-twitter-bot",
+  "version": "1.0.0",
+  "description": "Bot para print do twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarcisio20/Print-twitter-bot.git"
+  },
+  "author": "Tarcisio Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tarcisio20/Print-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Tarcisio20/Print-twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer-core": "^4.0.0",
+    "twit": "^2.2.11"
+  }
+}
